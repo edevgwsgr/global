@@ -6,8 +6,6 @@ import cheerio from "cheerio"
 import fetch from "node-fetch"
 import axios from "axios"
 import moment from "moment-timezone"
-import { es as esDefault, en as enDefault } from "./lib/multi-language/_default.js"
-import { en, ar, pt } from "./lib/language/total-language.js"
 
 global.owner = [
 ["212xxxx", '𝙊𝙬𝙣𝙚𝙧', true],]
