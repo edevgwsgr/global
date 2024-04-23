@@ -20,9 +20,6 @@ global.keepAliveRender = 0;
 global.botNumberCode = ""
 global.confirmCode = ""
 
-global.lenguajeGB = en
-global.mid = enDefault
-global.version_language = '1.0 (global-GB)'
 
 global.Key360 = ["global"]
 global.openai_key = 'sk-0'
@@ -88,30 +85,7 @@ global.author = ``
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-
-
-
-global.rg = '𝙍𝙀𝙎𝙐𝙇𝙏'
-global.resultado = rg
-
-global.ag = '𝙒𝘼𝙍𝙉𝙄𝙉𝙂'
-global.advertencia = ag
-
-global.iig = '𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉'
-global.informacion = iig
-
-global.fg = '𝙀𝙍𝙍𝙊𝙍'
-global.fallo = fg
-
-global.mg = '𝙐𝙎𝙀𝘿 𝙄𝙏 𝙒𝙍𝙊𝙉𝙂'
-global.mal = mg
-
-global.eeg = '𝙍𝙀𝙋𝙊𝙍𝙏'
-global.envio = eeg
-
-global.eg = '𝙎𝙐𝘾𝘾𝙀𝙎𝙎'
-global.exito = eg
+global.gt = ""
 
 
 global.wm = ""
